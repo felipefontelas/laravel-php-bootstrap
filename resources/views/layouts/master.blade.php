@@ -37,8 +37,10 @@
 
     <div class="container">
         @yield('content')
+        @include('layouts.sidebar')
     </div>
 <!-- /.blog-main -->
+
 
 </main><!-- /.container -->
 
