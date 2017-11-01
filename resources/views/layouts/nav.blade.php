@@ -6,6 +6,7 @@
             <a class="nav-link" href="/#autoexame">Autoexame</a>
             <a class="nav-link" href="/#comotratar">Como tratar</a>
             <a class="nav-link" href="/#dicas">Recomendações e Dicas</a>
+            <input type="text" class="search" id="search" onclick="easterEgg()">
         </nav>
     </div>
 </div>

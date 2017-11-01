@@ -12,4 +12,7 @@ class PostsController extends Controller
     public function show(){
         return view('posts.show');
     }
+    public function pantera(){
+        return view('posts.pantera');
+    }
 }
